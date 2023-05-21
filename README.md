@@ -14,4 +14,4 @@ Cделан по [видео-курсу](https://www.youtube.com/playlist?list=P
 
 # [Макет формы для изменения пароля](lesson-password)
 Практика по созданию формы для изменения пароля
-![project-password](/images/lesson-password)
+![project-password](/images/lesson-password.png)
