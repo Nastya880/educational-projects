@@ -9,5 +9,9 @@ My frontend projects
 Практика по созданию горизонтального меню
 ![project-menu](/images/lesson-menu.png)
 
-# [Макет сайта Tesla ](tesla)
+# [Макет сайта Tesla](tesla)
 Cделан по [видео-курсу](https://www.youtube.com/playlist?list=PLuY6eeDuleIMhg69FDlaLjzDermknWbaB)
+
+# [Макет формы для изменения пароля](lesson-password)
+Практика по созданию формы для изменения пароля
+![project-password](/images/lesson-password)
